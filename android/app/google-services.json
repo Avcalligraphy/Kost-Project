@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312237554124",
+    "project_id": "mamikost-d3b99",
+    "storage_bucket": "mamikost-d3b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312237554124:android:51ecb8375bb34a803bc569",
+        "android_client_info": {
+          "package_name": "com.example.avav_kost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312237554124-5d83mvirlbr4ie2cfo07uj8icaagcdh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrFgSyrgKXcY9TVMqtmeRmeYFX8hpmbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312237554124-5d83mvirlbr4ie2cfo07uj8icaagcdh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
